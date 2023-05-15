@@ -41,6 +41,6 @@ d. Community Incentives Contract: This contract will manage rewards for users pa
 
 9.	Security and Auditing: The smart contracts and web/mobile applications will undergo extensive security testing and auditing by independent third-party experts to ensure the platform's integrity and safety for users and investors. 
 
-<img width="472" alt="image" src="https://github.com/hashincludeim/Blockchain-based-Carbon-Credit-Trading-Platoform/assets/58355962/72e72b75-f2a7-416a-b474-1f515c5d5c97">
+<img width="800" alt="image" src="https://github.com/hashincludeim/Blockchain-based-Carbon-Credit-Trading-Platoform/assets/58355962/72e72b75-f2a7-416a-b474-1f515c5d5c97">
 
 
