@@ -43,16 +43,18 @@ d. Community Incentives Contract: This contract will manage rewards for users pa
 
 <img width="800" alt="image" src="https://github.com/hashincludeim/Blockchain-based-Carbon-Credit-Trading-Platoform/assets/58355962/72e72b75-f2a7-416a-b474-1f515c5d5c97">
 
-Pricing Mechanism and Economic Incentives
-a. Tokenomics and Economic Model of the Platform
+# Tokenomics and Economic Model of the Platform
+
 The tokenization of carbon credits involves representing the information and utility of a physical carbon credit on a blockchain as a token (Khodai, 2022). Broadly speaking, there are two tokenization methods: bridging and native tokenization.
 ●	Bridging, which can be subclassified into custodial and non-custodial, requires that physical carbon credits are issued first, and then transferred onto a blockchain by a bridging process.
 a.	Custodial bridging requires a centralised third party, such as a verifier or issuer, to bridge all tokens for all participants. This is heavily dependent on platform participants conferring a great degree of trust in the centralised party.
 b.	Non-custodial means that each individual user bridges their own physical credits into tokens. This is a more decentralised method and doesn’t rely on network participants putting their trust in a centralised entity.
 ●	Native tokenization is whereby the tokens are issued directly onto the blockchain, without physical credits having been issued beforehand.
 Each tokenization method has its own benefits and drawbacks, but our platform, CarbonXChange, will use native tokenization because it doesn’t require participants to confer their trust to a centralised third party. Furthermore, all information would be stored in a single source of truth within which information cannot be changed or destroyed, only updated. However, it must be considered that native tokenization means that no physical credits are issued, and thus it may decrease the pool of willing participants, especially those who have reservations about the safety of blockchain.
-b. Pricing for Carbon Credit Tokens and Trading Fees
-There are three ways of pricing a token at ICO (Frankenfield, 2022):
+
+# Pricing for Carbon Credit Tokens and Trading Fees
+
+There are three ways of pricing a token at ICO:
 ●	Static supply and price – This entails that both the supply of tokens and the price per token are predefined.
 ●	Static supply and dynamic price – This is whereby there is a predefined supply of tokens, but that the price per token is calculated by dividing the number of tokens being issued by the total pool of funds raised at ICO.
 ●	Dynamic supply and static price – This means that the price per token is predefined, but that the number of tokens issued is determined by the amount of funding received. 
@@ -63,52 +65,13 @@ Three baseline fees will be imposed to ensure financial and climate viability:
 2.	A fee for minting tokens on the blockchain - Minting tokens requires computational resources and energy. Therefore, to cover these costs, a small fee is typically charged for each token minted. The exact amount can vary based on several factors, including the complexity of the minting process, the current load on the network, and the price of the underlying cryptocurrency (Ethereum in this case). This fee also serves as a deterrent for spamming the network with unnecessary token creation.
 3.	A further fee on the retirement/redemption of tokens (Burning) - This fee will be imposed when redeeming/retiring tokens in order to cover the project’s energy, thus ensuring that the project is beneficial to the environment. This fee will be insignificant, as the tokens will be running on Ethereum 2.0, which uses a proof-of-stake algorithm, which consumes 99% less energy than proof-of-work systems (Kaplan, 2021; Jones, 2022).
 The pricing and fee structure is kept transparent and clearly communicated to all participants to maintain trust in the platform and to ensure users understand the costs associated with participating in the carbon credit marketplace.
-c. Incentives for Users and Reward Distribution
+
+# Incentives for Users and Reward Distribution
+
 Individuals who participate in projects will be rewarded by receiving a proportion of the mined tokens. Of the total amount of mined tokens, we anticipate that 90% will be distributed for purchase and trade, and the remaining 10% will be allocated to project participants.
 Beyond making a positive climate impact, there are numerous incentives for users to participate in the network:
 ●	CSR Adherence: Particularly for businesses, participation in a positive climate project such as this can be a key source of CSR adherence.
 ●	It is possible that royalties could be programmed into the tokens to reward the project developers – this could replace the initial system of rewarding participants with mined tokens.
 ●	Creation of new derivative markets: Opens up a new possibility for derivative markets, such as options and forwards, backed by the carbon credit tokens.
 ●	CCTs as a treasury/investment asset: The tokens can be used as a treasury and/or investment asset – this is particularly pertinent for early-stage network participants, as it is anticipated that the demand for carbon credit tokens may increase by a factor of 15 by 2030, and up to 100 by 2050, which could see the market value be upward of $50bn by 2030 (Blaufelder et al, 2021). As such it is reasonable to expect that certain users may trade tokens in a buy-and-hold manner, as a means of hedging against more volatile assets such as stocks. Furthermore, this is of significant current interest, following announcements from Morgan Stanley, BlackRock and Goldman Sachs of their intentions to move away from a 60/40 equity/bond portfolio split, and move towards different investment assets; it is not unreasonable to suggest carbon credit tokens may attract the attention of such wealth/asset management firms (Cunningham, 2021; Woolley, 2022; Edwards, 2022)
-Financial Feasibility
-The demand for a blockchain-based carbon credit trading platform is likely to be considerable given the growing emphasis on sustainable practises and the role that technology plays in expediting these efforts. From 2022 to 2030, the worldwide carbon credit market is anticipated to expand at a CAGR of 21.20%, potentially providing a large market for our platform, CarbonXChange. 
-Based on this, the financial feasibility of our platform for the next three years is presented below: 
-(all figures in USD)	Year 1	Year 2	Year 3
-Revenue	313,600 	627,200 	1,254,400 
-Cost	350,000 	280,000 	310,000 
-Net profit	(36,400)	347,200 	944,400 
-Revenue
-Revenue	USD
-Transaction Fee 	100,000 
-Minting Fee	213,500 
-Burning Fee	100
-Total Revenue in Year 1	313,600 
-
-Transaction Fee 	1%
-Minting Fee	 
-Cost of Carbon Credit per Token (in USD)	1.81
-Gas Fee per Transaction	3
-Operational Cost as a % of Transaction Fee	1%
-Regulatory and Compliance Fee per Token (Validators' Fee) (in USD)	0.15
-Burning Fee per Token	1%
-Gas Fee (35 GWEI is equal to 3 USD) (in USD)	3
-
-
-Number of Years	3
-No. of Transactions in Year 1	10,000
-Average Transaction Size (in USD)	1,000
-No. of Tokens Minted in Year 1	100000
-No. of Tokens Burned in Year 1	10000
-Average Revenue Growth Rate per Year	100%
-Costs
-(all figures in USD)	Year 1	Year 2	Year 3
-Development Costs	100,000 	-	-
-Operational Costs	100,000 	150,000 	100,000 
-Verification & Auditing Costs	50,000 	100,000 	200,000 
-Marketing Costs	100,000 	30,000 	10,000 
-Total Costs	350,000 	280,000 	310,000 
-Potential Risks Involved
-Like any other business idea, our platform also comes with a set of risks and rewards. Technical difficulties in creating and maintaining the platform, governmental changes affecting carbon trading or blockchain technology, and competition from other platforms are all potential risks involved in the idea. However, keeping up with legislative changes, investing in high quality development and security practises, and differentiating our platform through user-friendly design and solid partnerships are some of the strategies that can be used to minimise these risks.
-Given the growth possibilities in the carbon credit market and the distinctive value proposition of a blockchain-based platform, it is anticipated that the platform will operate at a loss for the first year before turning a profit in the second year of operation. Therefore, if the project can acquire the required funds and successfully manage the highlighted risks, it seems to be financially viable and has a clear route to profitability.
-![image](https://github.com/hashincludeim/Blockchain-based-Carbon-Credit-Trading-Platoform/assets/58355962/c9feed87-666a-40d7-b29e-2fa993bce60f)
-
+![image](https://github.com/hashincludeim/Blockchain-based-Carbon-Credit-Trading-Platoform/assets/58355962/fbd65ece-f291-4404-bc9f-f94108ce5c28)
